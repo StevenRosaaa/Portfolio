@@ -40,13 +40,13 @@ function App() {
             to create immersive digital experiences.
           </p>
           <div className="flex gap-6 pt-4">
-            <a href="#" className="text-zinc-400 hover:text-purple-500 transition-colors duration-300">
+            <a href="https://github.com/StevenRosaaa" className="text-zinc-400 hover:text-purple-500 transition-colors duration-300">
               <Github className="w-8 h-8" />
             </a>
-            <a href="#" className="text-zinc-400 hover:text-purple-500 transition-colors duration-300">
+            <a href="https://www.linkedin.com/in/giacomo-palmisani-39b46834b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="text-zinc-400 hover:text-purple-500 transition-colors duration-300">
               <Linkedin className="w-8 h-8" />
             </a>
-            <a href="#" className="text-zinc-400 hover:text-purple-500 transition-colors duration-300">
+            <a href="mailto:palmisanigiacomo4@gmail.com" className="text-zinc-400 hover:text-purple-500 transition-colors duration-300">
               <Mail className="w-8 h-8" />
             </a>
           </div>
