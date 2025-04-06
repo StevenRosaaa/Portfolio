@@ -17,7 +17,7 @@ function App() {
       {/* Hero Section */}
       <section className="min-h-screen flex flex-col justify-center px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto relative">
         <div className="absolute top-1/4 -left-4 w-72 h-72 bg-purple-500/10 rounded-full blur-3xl"></div>
-        <div className="absolute bottom-1/4 -right-2 w-72 h-72 bg-purple-700/10 rounded-full blur-3xl"></div>
+        <div className="absolute bottom-1/4 -right-1 w-72 h-72 bg-purple-700/10 rounded-full blur-3xl"></div>
         
         <div className="space-y-8 relative">
           <div className="flex gap-4 mb-8">
