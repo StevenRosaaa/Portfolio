@@ -105,7 +105,7 @@ function App() {
             I'm ready to bring your innovative ideas to life.
           </p>
           <a 
-            href="mailto:your.email@example.com"
+            href="mailto:palmisanigiacomo4@gmail.com"
             className="inline-flex items-center gap-2 bg-purple-600 hover:bg-purple-700 text-white px-8 py-4 text-lg font-medium transition-all duration-300 transform hover:scale-105 relative group"
           >
             <div className="absolute inset-0 bg-purple-500/20 blur-xl group-hover:blur-2xl transition-all duration-300"></div>
